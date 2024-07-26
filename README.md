@@ -1,4 +1,4 @@
-# Rick & Morty Wiki
+# Rick & Morty
 
 A React application that displays profiles of characters, episodes, and locations from the popular TV show *Rick & Morty*. The app provides a search feature, filtering options, and pagination to browse through the data.
 
